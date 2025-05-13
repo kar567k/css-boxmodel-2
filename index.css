@@ -1,0 +1,19 @@
+.item-1,.item-2,.item-3{
+    width: 350px;
+    /* height: 350px; */
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+   
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
